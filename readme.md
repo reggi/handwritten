@@ -1,6 +1,6 @@
 # A computer font that feels human.
 
-I love handwritten type. I've been greatly influenced by [James Victore's](http://instagram.com/jamesvictore) work. This is very difficult to replicate on the computer with a font because the repetitive nature of each letter stands out more when it has any sort of character. I've used [myscriptfont.com](http://www.myscriptfont.com/) in the past to create a handwritten font, and it didn't have that human element of each letter being different.
+I love handwritten type. I've been greatly influenced by [James Victore's](http://instagram.com/jamesvictore) work, it's bold, unique, and expressive. This is very difficult to replicate on the computer with a font because the repetitive nature of each letter stands out more when it has any sort of character. I've used [myscriptfont.com](http://www.myscriptfont.com/) in the past to create a handwritten font, and it didn't have that human element of each letter being different.
 
 ## Summary
 
