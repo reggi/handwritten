@@ -25,14 +25,52 @@
 body{
     background-color:#000;
 }
-h1{ 
+h1{
     font-family: 'thomasreggi1';
     font-size:50px;
     color: #fff;
 }
-div{
+#main{
     margin: auto;
     margin-top: 250px;
     width: 700px;
     text-align: center;
+}
+#github{
+    float:right;
+}
+#github-container{
+    width:100%;
+    position:absolute;
+    bottom:0px;
+    height:30px;
+    padding:5px;
+    background-color:#ddd;
+}
+.v-top{
+    display: inline-block;
+    vertical-align: top;
+    margin-right:5px
+}
+.darken{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    -webkit-transition: top .15s linear;
+    -moz-transition: top .15s linear;
+    -ms-transition: top .15s linear;
+    -o-transition: top .15s linear;
+    transition: top .15s linear;
+}
+#github-container:hover .darken{
+    top:-30px;
+    -webkit-transition: top .15s linear;
+    -moz-transition: top .15s linear;
+    -ms-transition: top .15s linear;
+    -o-transition: top .15s linear;
+    transition: top .15s linear;
 }
